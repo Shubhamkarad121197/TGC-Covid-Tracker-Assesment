@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CovidTrackerService } from './service/covid-tracker.service';
 
 @Component({
   selector: 'app-root',
